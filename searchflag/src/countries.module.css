@@ -1,0 +1,10 @@
+.CardImage {
+  padding: 25px;
+  align-items: center;
+  justify-content: center;
+}
+.inputclass {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
